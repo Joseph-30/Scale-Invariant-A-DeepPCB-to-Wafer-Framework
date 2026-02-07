@@ -1,4 +1,4 @@
-# Scale-Invariant: A DeepPCB-to-Wafer Framewor (IESA Hackathon Edition)
+# Scale-Invariant: A DeepPCB-to-Wafer Framework (IESA Hackathon Edition)
 
 This repository contains an end-to-end pipeline for processing the DeepPCB dataset, converting it into a classification dataset, augmenting underrepresented classes, and training a MobileNetV2-based classifier for detecting defects during semiconductor manufacturing.
 
