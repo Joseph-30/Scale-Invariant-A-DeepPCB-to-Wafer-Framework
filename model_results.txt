@@ -1,20 +1,20 @@
-Test Accuracy: 84.30%
+Test Accuracy: 91.70%
 
 Classification Report:
                     precision    recall  f1-score   support
 
-           0_Clean       0.94      0.65      0.77        71
-          1_Shorts       0.97      0.54      0.69        56
-           2_Opens       0.55      0.94      0.69        70
-             3_LER       0.91      0.74      0.82        57
-     4_Protrusions       0.93      1.00      0.97        57
-5_Foreign_Material       0.93      1.00      0.96        53
+           0_Clean       0.89      0.92      0.90        71
+          1_Shorts       0.82      0.88      0.84        56
+           2_Opens       0.91      0.74      0.82        70
+             3_LER       0.80      0.91      0.85        57
+     4_Protrusions       1.00      1.00      1.00        57
+5_Foreign_Material       1.00      0.98      0.99        53
         6_Pin_hole       1.00      1.00      1.00        52
            7_Crack       1.00      1.00      1.00        30
 
-          accuracy                           0.84       446
-         macro avg       0.90      0.86      0.86       446
-      weighted avg       0.89      0.84      0.84       446
+          accuracy                           0.92       446
+         macro avg       0.93      0.93      0.93       446
+      weighted avg       0.92      0.92      0.92       446
 
 
 Model Size: MobileNetV2 (approx 14MB)
