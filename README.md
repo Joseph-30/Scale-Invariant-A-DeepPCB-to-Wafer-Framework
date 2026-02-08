@@ -4,6 +4,8 @@ This repository contains an end-to-end pipeline for processing the DeepPCB datas
 
 Based on the original [DeepPCB](https://github.com/tangsanli5201/DeepPCB) dataset.
 
+Google drive link for onxx model file,dataset zip file,confusion matrix, result [Drive](https://drive.google.com/drive/folders/1XtYFVXu26pP1KtcfzbfE5eHvtKFQewH4?usp=sharing)
+
 ## 📂 Project Structure
 
 ```text
